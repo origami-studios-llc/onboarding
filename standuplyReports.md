@@ -1,6 +1,6 @@
 ## Standuply Reports
 
-Here at Outlier, we utilize a service called Standuply.
+Here at Crewlogix, we utilize a service called Standuply.
 Standuply is a program that runs stand-up meetings in text format in Slack. It helps our distributed teams organize and run stand-ups no matter the distance.
 
 These reports provide critical information and updates from engineers that helps better improve engineering's context for overall work and progress throughout the GitHub organization.

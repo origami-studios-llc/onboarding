@@ -1,6 +1,6 @@
 ## Project Lifecycle
 
-At Outlier, all projects are created as tickets through [Zenhub](https://app.zenhub.com/). However, not all tickets are "projects". There are plenty of one-offs, bug fixes, and small enhancements which need not be classified as a Project.
+At Crewlogix, all projects are created as tickets through [Zenhub](https://app.zenhub.com/). However, not all tickets are "projects". There are plenty of one-offs, bug fixes, and small enhancements which need not be classified as a Project.
 
 To be classified as a Project, a ticket must be one or more of the following:
 * An Epic
@@ -27,7 +27,7 @@ If a ticket is classified as a Project, the following steps take place:
 
 4. Follow the [Workflow](./gitAndGitHub.md#workflow) process to complete the Project.
 
-5. [Documentation](./projectDocumentation.md) must be added or updated in the repository for this Project's code. If a project spans multiple repositories (e.g. `outlier-api` and `calculus-staic`), relevant documentation should be added to both. 
+5. [Documentation](./projectDocumentation.md) must be added or updated in the repository for this Project's code. If a project spans multiple repositories (e.g. `Crewlogix-api` and `calculus-staic`), relevant documentation should be added to both. 
 
 ### Planning Document
 In order to facilitate proper forethought and planning in a project, a planning document should contain the following, at a minimum:

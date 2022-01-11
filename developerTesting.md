@@ -9,7 +9,7 @@ Prior to submitting a PR for review and QA, a developer is required to test thei
 - [ ] The UI changes should be as per design mockup.
 - [ ] The behavior of the added/changed part/s should be as specified.
 - [ ] The behavior of the related parts of the system that could be impacted by the change should be understood and tested, eg. Course home page / section page should be loaded in different account types when a change is made to the Navigation Component.
-- [ ] Changes that could be used by more than one user type, should be tested by every type of them, eg. (changes in calculus-static repo, should be tested for outlier, student and VIP accounts).
+- [ ] Changes that could be used by more than one user type, should be tested by every type of them, eg. (changes in calculus-static repo, should be tested for Crewlogix, student and VIP accounts).
 - [ ] State updates in components like InstructorQuestionSet (calculus-static) are more prone to creating race-conditions. So check all scenarios, like visiting previous questions, testing in Review mode, selecting a question through question set pop up modal, etc.
 
 **Non-Functional Testing:**
@@ -26,7 +26,7 @@ Prior to submitting a PR for review and QA, a developer is required to test thei
 
 ## Backend Testing Checklist
 
-- [ ] [Outlier's best practices](https://github.com/outlier-org/onboarding/blob/master/codeStandards.md) are followed.
+- [ ] [Crewlogix's best practices](https://github.com/outlier-org/onboarding/blob/master/codeStandards.md) are followed.
 - [ ] The branch is rebased over the latest master branch.
 - [ ] All the relevant meaningful tests (expected outcome & unexpected outcome) related to the latest changes are added with realistic results that are consistent with the real output.
 - [ ] Understands affected areas related to changes in PR.

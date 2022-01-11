@@ -1,4 +1,4 @@
-# Outlier 101
+# Crewlogix 101
 
 ## Terms, Acronyms, and Definitions
 
@@ -27,7 +27,7 @@
 - **AD**: Admin Dashboard
 - **WGC**: Writing Grade Center
 - **GCS**: Google Cloud Storage
-- **LMS**: Learning Management System - our course website like https://dashboard.outlier.org/, https://calculus.outlier.org/
+
 
 ## Tools and Platforms Used
 
