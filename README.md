@@ -4,7 +4,7 @@
 
 # Engineering & Onboarding Guide
 
-Hey there! You're probably reading this because you've been invited to take one of our code challenges or are working on an Outlier engineering project. Welcome!
+Hey there! You're probably reading this because you've been invited to take one of our code challenges or are working on an Crewlogix engineering project. Welcome!
 
 We're looking for talented developers to help us shape the future of education. Our platform has the world's best online, university-level courses, taught by some of the most celebrated educators in the world. Our courses use the active learning method to help students visualize, understand, and enjoy learning.
 
